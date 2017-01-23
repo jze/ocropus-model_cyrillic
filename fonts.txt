@@ -1,0 +1,6 @@
+/usr/share/fonts/truetype/gentium/Gentium-I.ttf 
+/usr/share/fonts/truetype/gentium/Gentium-R.ttf 
+/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf 
+/usr/share/fonts/truetype/noto/NotoSans-Bold.ttf 
+/usr/share/fonts/truetype/noto/NotoSerif-Regular.ttf 
+
