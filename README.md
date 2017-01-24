@@ -8,7 +8,7 @@ The model can be trained using this command:
 
 I have trained an initial model `cyrillic-00009000.pyrnn.gz` which can be found in the repository. You can see the training progress of the model in this diagram: 
 
-![progress of character accuracy](/tmp/ocropus-model_cyrillic/accuracy.png  "training progress")
+![progress of character accuracy](accuracy.png  "training progress")
 
 ## extending the training material
 
