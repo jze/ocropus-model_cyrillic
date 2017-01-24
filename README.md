@@ -6,7 +6,9 @@ The model can be trained using this command:
 
 	ocropus-rtrain -c codec.txt -F 1000 -o cyrillic training/*.bin.png
 
-In my initial experiment even 3,000 iterations lead to a quite usable model (character precision ~95%).
+I have trained an initial model `cyrillic-00009000.pyrnn.gz` which can be found in the repository. You can see the training progress of the model in this diagram: 
+
+![progress of character accuracy](/tmp/ocropus-model_cyrillic/accuracy.png  "training progress")
 
 ## extending the training material
 
