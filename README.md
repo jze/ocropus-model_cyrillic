@@ -10,6 +10,13 @@ I have trained an initial model `cyrillic-00009000.pyrnn.gz` which can be found 
 
 ![progress of character accuracy](accuracy.png  "training progress")
 
+## sources
+
+The snippets come from these sources:
+
+- [Введение в археологию. Часть I (Жебелёв) page 6](https://ru.wikisource.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%B0%D1%80%D1%85%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8E._%D0%A7%D0%B0%D1%81%D1%82%D1%8C_1_(%D0%96%D0%B5%D0%B1%D0%B5%D0%BB%D1%91%D0%B2,_1923).pdf/14) 
+
+
 ## extending the training material
 
 There is a folder `raw` that contains additional images without ground truth data. If you can read Russian or like to fiddle about the Cyrillic letter (the most I can do) you are invidet to complete the ground truth data:
